@@ -1,0 +1,9 @@
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/AnimeComponents.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/edit_cache.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/rebuild_cache.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/list_install_components.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/install.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/install/local.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/install/strip.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/AnimeComponents_autogen_timestamp_deps.dir
+/Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/CMakeFiles/AnimeComponents_autogen.dir
