@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_AnimeComponents_FILE /Users/wanglingzhi/Repos/cpp/Anime_carousel/Anime_Template_Project/build/libAnimeComponents.dylib)
-set(__QT_DEPLOY_TARGET_AnimeComponents_TYPE SHARED_LIBRARY)
