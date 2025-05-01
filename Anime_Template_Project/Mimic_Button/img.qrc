@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img/twitter.png</file>
+        <file>img/哔哩哔哩.png</file>
+        <file>img/电话.png</file>
+        <file>img/短信.png</file>
+        <file>img/浏览器.png</file>
+        <file>img/录音.png</file>
+        <file>img/日历.png</file>
+        <file>img/通讯录.png</file>
+        <file>img/微信.png</file>
+    </qresource>
+</RCC>
